@@ -1,0 +1,46 @@
+# Generates the contribution-snake animation for the profile README.
+# Put this file at:  .github/workflows/snake.yml   in the Pooja24100/Pooja24100 repo.
+#
+# After committing it, go to the repo's  Actions  tab, pick "Generate snake animation",
+# and click "Run workflow" once. It writes two SVGs to a branch called `output`,
+# which the README already points at. After that it refreshes itself daily.
+
+name: Generate snake animation
+
+on:
+  schedule:
+    # 03:00 UTC daily = 08:30 IST
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake from the contribution grid
+        uses: Platane/snk/svg-only@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
