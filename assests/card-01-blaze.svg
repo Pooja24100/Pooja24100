@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" role="img" aria-label="01, Blaze Tingg, in production: editable multi-step AI pipelines. Text, image and video are generated through pipelines that can be reviewed, approved or regenerated. A brief goes to OpenAI or Claude, the work runs as an asynchronous job, the interface polls for status, and the result reaches a review gate that can approve it or send it back to be regenerated. Long jobs report progress by polling, so the interface never blocks. Built with Next.js, Python, OpenAI, Claude, Material UI, REST APIs and Nginx.">
+  <title>01 — Blaze Tingg: editable multi-step AI pipelines</title>
+
+  <defs>
+    <pattern id="g1" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.3" cy="1.3" r="1.3" fill="#30363d" fill-opacity=".5"/>
+    </pattern>
+    <marker id="a1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/>
+    </marker>
+    <marker id="a1b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#d29922"/>
+    </marker>
+    <style>
+      .s   { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif; }
+      .eb  { font-size: 12.5px; font-weight: 700; letter-spacing: 1.6px; fill: #58a6ff; }
+      .ti  { font-size: 29px;   font-weight: 800; fill: #e6edf3; letter-spacing: -.6px; }
+      .bd  { font-size: 15.5px; font-weight: 400; fill: #c9d1d9; }
+      .pil { font-size: 12.5px; font-weight: 600; fill: #8b949e; }
+      .nd  { font-size: 12.5px; font-weight: 600; fill: #e6edf3; }
+      .lb  { font-size: 11.5px; font-weight: 500; fill: #8b949e; }
+      .cap { font-size: 12px;   font-weight: 400; fill: #8b949e; }
+      .ln  { stroke: #8b949e; stroke-width: 1.5; fill: none; marker-end: url(#a1); }
+    </style>
+  </defs>
+
+  <rect width="760" height="360" rx="14" fill="#0d1117"/>
+  <rect width="760" height="360" rx="14" fill="url(#g1)"/>
+  <path d="M0,14 A14,14 0 0 1 14,0 L14,360 A14,14 0 0 1 0,346 Z" fill="#58a6ff"/>
+
+  <!-- ══ left column ══ -->
+  <text class="s eb" x="44" y="52">01 · BLAZE TINGG · IN PRODUCTION</text>
+  <text class="s ti" x="44" y="100">Editable multi-step</text>
+  <text class="s ti" x="44" y="134">AI pipelines</text>
+
+  <text class="s bd" x="44" y="180">Text, image and video run through</text>
+  <text class="s bd" x="44" y="204">pipelines you can review, approve or</text>
+  <text class="s bd" x="44" y="228">send back to be regenerated — with</text>
+  <text class="s bd" x="44" y="252">nothing blocked while a job runs.</text>
+
+  <g>
+    <rect x="44"  y="288" width="72" height="26" rx="13" fill="#161b22" stroke="#21262d"/>
+    <text class="s pil" x="80"  y="305" text-anchor="middle">Next.js</text>
+    <rect x="124" y="288" width="70" height="26" rx="13" fill="#161b22" stroke="#21262d"/>
+    <text class="s pil" x="159" y="305" text-anchor="middle">Python</text>
+    <rect x="202" y="288" width="122" height="26" rx="13" fill="#161b22" stroke="#21262d"/>
+    <text class="s pil" x="263" y="305" text-anchor="middle">OpenAI · Claude</text>
+    <rect x="332" y="288" width="62" height="26" rx="13" fill="#161b22" stroke="#21262d"/>
+    <text class="s pil" x="363" y="305" text-anchor="middle">Nginx</text>
+  </g>
+
+  <!-- ══ right: the mechanism ══ -->
+  <g>
+    <!-- brief -->
+    <rect x="438" y="56" width="84" height="30" rx="7" fill="#161b22" stroke="#30363d"/>
+    <text class="s nd" x="480" y="75" text-anchor="middle">brief</text>
+
+    <!-- providers -->
+    <rect x="574" y="44" width="92" height="27" rx="7" fill="#161b22" stroke="#58a6ff"/>
+    <text class="s nd" x="620" y="62" text-anchor="middle">OpenAI</text>
+    <rect x="574" y="78" width="92" height="27" rx="7" fill="#161b22" stroke="#58a6ff"/>
+    <text class="s nd" x="620" y="96" text-anchor="middle">Claude</text>
+    <path class="ln" d="M524,71 L570,62"/>
+    <path class="ln" d="M524,73 L570,90"/>
+
+    <!-- async job -->
+    <rect x="502" y="134" width="164" height="30" rx="7" fill="#161b22" stroke="#30363d"/>
+    <text class="s nd" x="584" y="153" text-anchor="middle">async job</text>
+    <path class="ln" d="M620,109 L602,130"/>
+
+    <!-- poll -->
+    <rect x="502" y="192" width="164" height="30" rx="7" fill="#161b22" stroke="#30363d"/>
+    <text class="s nd" x="584" y="211" text-anchor="middle">poll status</text>
+    <path class="ln" d="M584,166 L584,188"/>
+    <circle r="3" fill="#58a6ff">
+      <animateMotion dur="2.2s" repeatCount="indefinite" path="M584,168 L584,188"/>
+    </circle>
+
+    <!-- review gate -->
+    <rect x="502" y="250" width="164" height="30" rx="7" fill="#161b22" stroke="#3fb950"/>
+    <text class="s nd" x="584" y="269" text-anchor="middle">review · approve</text>
+    <path class="ln" d="M584,224 L584,246"/>
+
+    <!-- regenerate loop -->
+    <path d="M502,265 L424,265 L424,24 L620,24 L620,40" stroke="#d29922" stroke-width="1.4"
+          stroke-dasharray="4 4" fill="none" marker-end="url(#a1b)"/>
+    <text class="s lb" x="418" y="160" text-anchor="end" fill="#d29922">regenerate</text>
+
+    <!-- outputs -->
+    <path d="M666,265 L684,265" stroke="#30363d" stroke-width="1.3"/>
+    <text class="s cap" x="692" y="253" fill="#3fb950">text</text>
+    <text class="s cap" x="692" y="269" fill="#3fb950">image</text>
+    <text class="s cap" x="692" y="285" fill="#3fb950">video</text>
+  </g>
+
+  <text class="s cap" x="438" y="318">a long job polls — the interface never blocks</text>
+
+  <rect x=".75" y=".75" width="758.5" height="358.5" rx="14" fill="none" stroke="#21262d" stroke-width="1.5"/>
+</svg>
