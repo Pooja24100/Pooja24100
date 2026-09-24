@@ -2,7 +2,7 @@
 <!-- ==  HERO  ============================================================ -->
 <!-- ====================================================================== -->
 
-<img width="100%" alt="Pooja Tanwar &mdash; Software Engineer and Full-Stack Developer, React.js, Next.js, Node.js, TypeScript, Python and Generative AI. Based in Noida, India. 1.5+ years experience, 5 production products shipped." src="assets/hero-banner.svg" />
+<img width="100%" alt="Pooja Tanwar &mdash; Software Engineer and Full-Stack Developer, React.js, Next.js, Node.js, TypeScript, Python and Generative AI. Based in Noida, India. 1.5+ years experience, 5 production products shipped." src="assests/hero-banner.svg" />
 
 <div align="center">
 
