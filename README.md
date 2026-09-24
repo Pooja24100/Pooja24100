@@ -6,16 +6,18 @@
 
 <div align="center">
 
-<a href="https://pooja-tanwar-fullstack-portfolio.netlify.app/"><img alt="Software Engineer and Full-Stack Developer building with React.js, Next.js, Node.js, Python and Generative AI workflows" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=560&amp;height=48&amp;lines=Software+Engineer+%C2%B7+Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+Python;OpenAI+%C2%B7+Claude+%C2%B7+Gemini+workflows;5+production+products+delivered" /></a>
+<a href="https://pooja-tanwar-fullstack-portfolio.netlify.app/"><img alt="Software Engineer and Full-Stack Developer building with React.js, Next.js, Node.js, Python and Generative AI workflows" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=C026D3&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=560&amp;height=48&amp;lines=Software+Engineer+%C2%B7+Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+Python;OpenAI+%C2%B7+Claude+%C2%B7+Gemini+workflows;5+production+products+delivered" /></a>
 
-<a href="https://pooja-tanwar-fullstack-portfolio.netlify.app/"><img alt="Portfolio website" title="My portfolio" src="https://img.shields.io/badge/Portfolio-4338CA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>&emsp;
-<a href="https://linkedin.com/in/pooja-tanwar-00368a286"><img alt="LinkedIn profile" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-4338CA?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&emsp;
-<a href="mailto:tanwarpooja2410@gmail.com"><img alt="Email address" title="Email me" src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>&emsp;
-<a href="https://github.com/Pooja24100"><img alt="GitHub profile" title="My GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-4338CA?style=for-the-badge&amp;logo=mark-github&amp;logoColor=white" /></a>
+<a href="https://pooja-tanwar-fullstack-portfolio.netlify.app/"><img alt="Portfolio website" title="My portfolio" src="https://img.shields.io/badge/Portfolio-A21CAF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>&emsp;
+<a href="https://linkedin.com/in/pooja-tanwar-00368a286"><img alt="LinkedIn profile" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-A21CAF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&emsp;
+<a href="mailto:tanwarpooja2410@gmail.com"><img alt="Email address" title="Email me" src="https://img.shields.io/badge/Email-A21CAF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>&emsp;
+<a href="https://github.com/Pooja24100"><img alt="GitHub profile" title="My GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-A21CAF?style=for-the-badge&amp;logo=mark-github&amp;logoColor=white" /></a>
 
-<img alt="Profile view counter" src="https://komarev.com/ghpvc/?username=Pooja24100&amp;style=for-the-badge&amp;color=7C3AED&amp;label=PROFILE+VIEWS" />
+<img alt="Profile view counter" src="https://komarev.com/ghpvc/?username=Pooja24100&amp;style=for-the-badge&amp;color=C026D3&amp;label=PROFILE+VIEWS" />
 
 </div>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:A21CAF,50:C026D3,100:67E8F9&amp;height=4" />
 
 <!-- ====================================================================== -->
 <!-- ==  ABOUT  =========================================================== -->
@@ -35,6 +37,8 @@ Full-Stack Software Engineer with more than **1.5 years of experience** and **5 
 
 </details>
 
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:A21CAF,50:C026D3,100:67E8F9&amp;height=4" />
+
 <!-- ====================================================================== -->
 <!-- ==  TECH STACK  ====================================================== -->
 <!-- ====================================================================== -->
@@ -52,9 +56,9 @@ Full-Stack Software Engineer with more than **1.5 years of experience** and **5 
 
 <br/>
 
-<img alt="OpenAI API" title="OpenAI API" src="https://custom-icon-badges.demolab.com/badge/OpenAI-4338CA?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
-<img alt="Claude API" title="Claude API" src="https://img.shields.io/badge/Claude-4338CA?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" />
-<img alt="Gemini AI" title="Gemini AI" src="https://img.shields.io/badge/Gemini-4338CA?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" />
+<img alt="OpenAI API" title="OpenAI API" src="https://custom-icon-badges.demolab.com/badge/OpenAI-A21CAF?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+<img alt="Claude API" title="Claude API" src="https://img.shields.io/badge/Claude-A21CAF?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" />
+<img alt="Gemini AI" title="Gemini AI" src="https://img.shields.io/badge/Gemini-A21CAF?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" />
 
 </div>
 
@@ -71,6 +75,8 @@ Full-Stack Software Engineer with more than **1.5 years of experience** and **5 
 **Cloud, DevOps and Engineering** &nbsp;·&nbsp; `Nginx` `Docker` `HTTPS/SSL` `Git` `GitHub` `Postman` `Code Review` `Testing` `Debugging`
 
 </details>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:A21CAF,50:C026D3,100:67E8F9&amp;height=4" />
 
 <!-- ====================================================================== -->
 <!-- ==  EXPERIENCE  ====================================================== -->
@@ -107,6 +113,8 @@ Full-Stack Software Engineer with more than **1.5 years of experience** and **5 
 - Debugged and optimized 10+ responsive pages to improve cross-browser compatibility, mobile usability and frontend reliability.
 
 </details>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:A21CAF,50:C026D3,100:67E8F9&amp;height=4" />
 
 <!-- ====================================================================== -->
 <!-- ==  PROJECTS  ======================================================== -->
@@ -147,14 +155,16 @@ Full-Stack Software Engineer with more than **1.5 years of experience** and **5 
 
 <div align="center">
 
-<a href="https://github.com/Pooja24100/nova-voice-assistant"><img alt="Nova Voice Assistant repository" title="Nova Voice Assistant" src="https://custom-icon-badges.demolab.com/badge/-Nova%20Voice%20Assistant-4338CA?style=for-the-badge&amp;logo=repo&amp;logoColor=white" /></a>&emsp;
-<a href="https://github.com/Pooja24100/Star-Wars-Character-App"><img alt="Star Wars Character App repository" title="Star Wars Character App" src="https://custom-icon-badges.demolab.com/badge/-Star%20Wars%20Character%20App-4338CA?style=for-the-badge&amp;logo=repo&amp;logoColor=white" /></a>
+<a href="https://github.com/Pooja24100/nova-voice-assistant"><img alt="Nova Voice Assistant repository" title="Nova Voice Assistant" src="https://custom-icon-badges.demolab.com/badge/-Nova%20Voice%20Assistant-A21CAF?style=for-the-badge&amp;logo=repo&amp;logoColor=white" /></a>&emsp;
+<a href="https://github.com/Pooja24100/Star-Wars-Character-App"><img alt="Star Wars Character App repository" title="Star Wars Character App" src="https://custom-icon-badges.demolab.com/badge/-Star%20Wars%20Character%20App-A21CAF?style=for-the-badge&amp;logo=repo&amp;logoColor=white" /></a>
 
-<a href="https://github.com/Pooja24100?tab=repositories"><img alt="Browse all of my repositories on GitHub" title="All of my repositories" src="https://custom-icon-badges.demolab.com/badge/-Explore%20All%20My%20Repositories%20%E2%86%92-7C3AED?style=for-the-badge&amp;logo=repo&amp;logoColor=white" /></a>
+<a href="https://github.com/Pooja24100?tab=repositories"><img alt="Browse all of my repositories on GitHub" title="All of my repositories" src="https://custom-icon-badges.demolab.com/badge/-Explore%20All%20My%20Repositories%20%E2%86%92-C026D3?style=for-the-badge&amp;logo=repo&amp;logoColor=white" /></a>
 
 </div>
 
 </details>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:A21CAF,50:C026D3,100:67E8F9&amp;height=4" />
 
 <!-- ====================================================================== -->
 <!-- ==  AI PIPELINE DIAGRAM  ============================================= -->
@@ -182,6 +192,8 @@ flowchart TD
 
 </details>
 
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:A21CAF,50:C026D3,100:67E8F9&amp;height=4" />
+
 <!-- ====================================================================== -->
 <!-- ==  GITHUB STATS  ==================================================== -->
 <!-- ====================================================================== -->
@@ -193,12 +205,8 @@ flowchart TD
 
 <div align="center">
 
-<a href="https://github.com/Pooja24100"><img width="686" title="Contribution and repository overview" alt="GitHub profile summary for Pooja24100" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pooja24100&amp;theme=transparent" /></a>
-
-<a href="https://github.com/Pooja24100?tab=repositories"><img width="340" title="How my repositories break down by language" alt="Repositories per language for Pooja24100" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pooja24100&amp;theme=transparent" /></a>
-<a href="https://github.com/Pooja24100"><img width="340" title="When I commit most, in IST" alt="Most productive time of day for Pooja24100" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pooja24100&amp;theme=transparent&amp;utcOffset=5.5" /></a>
-
-<a href="https://github.com/Pooja24100"><img width="495" title="Current and longest contribution streak" alt="Contribution streak for Pooja24100" src="https://streak-stats.demolab.com/?user=Pooja24100&amp;hide_border=true&amp;background=00000000&amp;stroke=8B5CF6&amp;ring=7C3AED&amp;fire=7C3AED&amp;currStreakNum=7C3AED&amp;sideNums=7C3AED&amp;currStreakLabel=8B5CF6&amp;sideLabels=8B5CF6&amp;dates=8B5CF6&amp;date_format=j%20M%5B%20Y%5D" /></a>
+<a href="https://github.com/Pooja24100?tab=repositories"><img width="420" title="How my repositories break down by language" alt="Repositories per language for Pooja24100" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pooja24100&amp;theme=transparent" /></a>
+<a href="https://github.com/Pooja24100"><img width="495" title="Current and longest contribution streak" alt="Contribution streak for Pooja24100" src="https://streak-stats.demolab.com/?user=Pooja24100&amp;hide_border=true&amp;background=00000000&amp;stroke=8B5CF6&amp;ring=C026D3&amp;fire=C026D3&amp;currStreakNum=C026D3&amp;sideNums=C026D3&amp;currStreakLabel=8B5CF6&amp;sideLabels=8B5CF6&amp;dates=8B5CF6&amp;date_format=j%20M%5B%20Y%5D" /></a>
 
 <br/>
 
@@ -211,6 +219,8 @@ flowchart TD
 </div>
 
 </details>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:A21CAF,50:C026D3,100:67E8F9&amp;height=4" />
 
 <!-- ====================================================================== -->
 <!-- ==  EDUCATION & CERTIFICATIONS  ====================================== -->
@@ -229,13 +239,15 @@ The Technological Institute of Textiles and Sciences (MDU Rohtak) &nbsp;·&nbsp;
 
 <div align="center">
 
-<img alt="React JS certification from Simplilearn" src="https://img.shields.io/badge/React%20JS-Simplilearn-7C3AED?style=for-the-badge&amp;labelColor=4338CA&amp;logo=react&amp;logoColor=white" />
-<img alt="Full Stack Java Development certification from Ducat" src="https://img.shields.io/badge/Full%20Stack%20Java%20Development-Ducat-7C3AED?style=for-the-badge&amp;labelColor=4338CA&amp;logo=openjdk&amp;logoColor=white" />
-<img alt="Introduction to Java and OOP certification from Udemy" src="https://img.shields.io/badge/Introduction%20to%20Java%20%26%20OOP-Udemy-7C3AED?style=for-the-badge&amp;labelColor=4338CA&amp;logo=udemy&amp;logoColor=white" />
+<img alt="React JS certification from Simplilearn" src="https://img.shields.io/badge/React%20JS-Simplilearn-C026D3?style=for-the-badge&amp;labelColor=A21CAF&amp;logo=react&amp;logoColor=white" />
+<img alt="Full Stack Java Development certification from Ducat" src="https://img.shields.io/badge/Full%20Stack%20Java%20Development-Ducat-C026D3?style=for-the-badge&amp;labelColor=A21CAF&amp;logo=openjdk&amp;logoColor=white" />
+<img alt="Introduction to Java and OOP certification from Udemy" src="https://img.shields.io/badge/Introduction%20to%20Java%20%26%20OOP-Udemy-C026D3?style=for-the-badge&amp;labelColor=A21CAF&amp;logo=udemy&amp;logoColor=white" />
 
 </div>
 
 </details>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:A21CAF,50:C026D3,100:67E8F9&amp;height=4" />
 
 <!-- ====================================================================== -->
 <!-- ==  CONTACT + FOOTER  ================================================ -->
@@ -245,6 +257,6 @@ The Technological Institute of Textiles and Sciences (MDU Rohtak) &nbsp;·&nbsp;
 
 ### 💬 &nbsp;Get in touch
 
-<a href="mailto:tanwarpooja2410@gmail.com"><img alt="Email Pooja Tanwar" title="Get in touch" src="https://img.shields.io/badge/-Email%20Me%20%E2%86%92-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="mailto:tanwarpooja2410@gmail.com"><img alt="Email Pooja Tanwar" title="Get in touch" src="https://img.shields.io/badge/-Email%20Me%20%E2%86%92-C026D3?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
 </div>
