@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350" role="img" aria-label="Pooja Tanwar, full-stack engineer, Noida, India. I build web products and the AI inside them. React, Next.js, Node.js, Python, with OpenAI, Claude and Gemini. More than 1.5 years shipping, 5 production products, about 20 percent faster apps, 20 plus reusable components.">
+  <title>Pooja Tanwar — Full-Stack Engineer, Noida, India</title>
+  <desc>I build web products and the AI inside them.</desc>
+
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.3" cy="1.3" r="1.3" fill="#30363d" fill-opacity=".55"/>
+    </pattern>
+    <style>
+      .s { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif; }
+      .m { font-family: ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace; }
+      .eyebrow { font-size: 13px; font-weight: 700; letter-spacing: 1.7px; fill: #58a6ff; }
+      .h       { font-size: 37px; font-weight: 800; fill: #e6edf3; letter-spacing: -.8px; }
+      .sub     { font-size: 15px; font-weight: 400; fill: #8b949e; }
+      .num     { font-size: 25px; font-weight: 700; fill: #58a6ff; }
+      .lab     { font-size: 12px; font-weight: 400; fill: #8b949e; }
+      .cap     { font-size: 11.5px; font-weight: 600; fill: #3fb950; }
+      .pipe    { stroke: #30363d; stroke-width: 1.6; fill: none; }
+    </style>
+  </defs>
+
+  <rect width="760" height="350" rx="14" fill="#0d1117"/>
+  <rect width="760" height="350" rx="14" fill="url(#grid)"/>
+
+  <text class="s eyebrow" x="40" y="54">POOJA TANWAR · FULL-STACK ENGINEER · NOIDA, INDIA</text>
+
+  <text class="s h" x="40" y="112">I build web products</text>
+  <text class="s h" x="40" y="156">and the <tspan fill="#58a6ff">AI inside them.</tspan></text>
+
+  <text class="s sub" x="40" y="190">React · Next.js · Node.js · Python · OpenAI, Claude, Gemini</text>
+
+  <!-- pipeline motif -->
+  <g>
+    <path class="pipe" d="M566,148 L616,112"/>
+    <path class="pipe" d="M616,112 L684,76"/>
+    <path class="pipe" d="M616,112 L700,124"/>
+    <path class="pipe" d="M616,112 L676,166"/>
+    <circle cx="566" cy="148" r="10" fill="#0d1117" stroke="#8b949e" stroke-width="2"/>
+    <circle cx="616" cy="112" r="11" fill="#0d1117" stroke="#58a6ff" stroke-width="2.4"/>
+    <circle cx="684" cy="76"  r="9"  fill="#0d1117" stroke="#3fb950" stroke-width="2"/>
+    <circle cx="700" cy="124" r="9"  fill="#0d1117" stroke="#3fb950" stroke-width="2"/>
+    <circle cx="676" cy="166" r="9"  fill="#0d1117" stroke="#3fb950" stroke-width="2"/>
+    <circle r="3.6" fill="#58a6ff">
+      <animateMotion dur="3.4s" repeatCount="indefinite" path="M566,148 L616,112 L684,76"/>
+    </circle>
+    <text class="s cap" x="612" y="196">text · image · video</text>
+  </g>
+
+  <!-- stat tiles -->
+  <g>
+    <rect x="40"  y="238" width="156" height="72" rx="10" fill="#161b22" stroke="#21262d"/>
+    <text class="s num" x="58"  y="274">1.5+</text>
+    <text class="s lab" x="58"  y="295">years shipping</text>
+
+    <rect x="209" y="238" width="156" height="72" rx="10" fill="#161b22" stroke="#21262d"/>
+    <text class="s num" x="227" y="274">5</text>
+    <text class="s lab" x="227" y="295">production products</text>
+
+    <rect x="378" y="238" width="156" height="72" rx="10" fill="#161b22" stroke="#21262d"/>
+    <text class="s num" x="396" y="274">~20%</text>
+    <text class="s lab" x="396" y="295">faster apps</text>
+
+    <rect x="547" y="238" width="156" height="72" rx="10" fill="#161b22" stroke="#21262d"/>
+    <text class="s num" x="565" y="274">20+</text>
+    <text class="s lab" x="565" y="295">reusable components</text>
+  </g>
+
+  <rect x=".75" y=".75" width="758.5" height="348.5" rx="14" fill="none" stroke="#21262d" stroke-width="1.5"/>
+</svg>
