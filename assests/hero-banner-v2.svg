@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Pooja Tanwar, Software Engineer and Full-Stack Developer, React.js, Next.js, Node.js, TypeScript, Python and Generative AI, Noida India">
+  <title>Pooja Tanwar — Software Engineer, Full-Stack Developer, Generative AI</title>
+
+  <defs>
+    <!-- base gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#230430"/>
+      <stop offset="26%"  stop-color="#5B0761"/>
+      <stop offset="58%"  stop-color="#9D1FA8"/>
+      <stop offset="82%"  stop-color="#C026D3"/>
+      <stop offset="100%" stop-color="#DB2FE0"/>
+    </linearGradient>
+
+    <!-- aurora glows -->
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#F472FF" stop-opacity=".95"/>
+      <stop offset="60%"  stop-color="#F472FF" stop-opacity=".30"/>
+      <stop offset="100%" stop-color="#E879F9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#22D3EE" stop-opacity=".60"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#FF6E9C" stop-opacity=".52"/>
+      <stop offset="100%" stop-color="#FB7185" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowD" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#F0ABFC" stop-opacity=".30"/>
+      <stop offset="100%" stop-color="#F0ABFC" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- edge vignette, keeps the centre bright and the corners deep -->
+    <radialGradient id="vignette" cx="38%" cy="50%" r="78%">
+      <stop offset="0%"   stop-color="#000000" stop-opacity="0"/>
+      <stop offset="68%"  stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#1A0024" stop-opacity=".40"/>
+    </radialGradient>
+
+    <!-- animated rule under the name -->
+    <linearGradient id="rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#F0ABFC" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#F0ABFC" stop-opacity=".95"/>
+      <stop offset="62%"  stop-color="#67E8F9" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#67E8F9" stop-opacity="0"/>
+      <animate attributeName="x1" values="-40%;30%;-40%" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="60%;140%;60%"  dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- name fill: subtle top-down sheen instead of flat white -->
+    <linearGradient id="nameFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="62%"  stop-color="#FDF4FF"/>
+      <stop offset="100%" stop-color="#F0ABFC"/>
+    </linearGradient>
+
+    <linearGradient id="barFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#67E8F9"/>
+      <stop offset="100%" stop-color="#E879F9"/>
+    </linearGradient>
+
+    <!-- specular sweep -->
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="48%"  stop-color="#FFFFFF" stop-opacity=".85"/>
+      <stop offset="52%"  stop-color="#FFFFFF" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="sheenMask">
+      <rect width="1280" height="340" fill="#000"/>
+      <rect class="sweep" x="-460" y="0" width="330" height="340" fill="url(#sheen)"/>
+    </mask>
+
+    <!-- fine dot grid, more refined than ruled lines -->
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.15" fill="#FFE3FF" fill-opacity=".20"/>
+    </pattern>
+
+    <!-- film grain -->
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch" result="n"/>
+      <feColorMatrix in="n" type="saturate" values="0"/>
+    </filter>
+
+    <filter id="soften" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+
+    <filter id="termGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#2A0033" flood-opacity=".55"/>
+    </filter>
+
+    <clipPath id="card">
+      <rect x="0" y="0" width="1280" height="340" rx="26" ry="26"/>
+    </clipPath>
+
+    <style>
+      .t    { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+
+      .glow { transform-box: fill-box; transform-origin: center; }
+      .g1 { animation: driftA 21s ease-in-out infinite; }
+      .g2 { animation: driftB 26s ease-in-out infinite; }
+      .g3 { animation: driftC 31s ease-in-out infinite; }
+      .g4 { animation: driftD 24s ease-in-out infinite; }
+
+      @keyframes driftA { 0%,100%{transform:translate(0,0) scale(1)}      50%{transform:translate(70px,28px) scale(1.16)} }
+      @keyframes driftB { 0%,100%{transform:translate(0,0) scale(1.08)}   50%{transform:translate(-64px,-26px) scale(.88)} }
+      @keyframes driftC { 0%,100%{transform:translate(0,0) scale(.94)}    50%{transform:translate(44px,-38px) scale(1.2)} }
+      @keyframes driftD { 0%,100%{transform:translate(0,0) scale(1.02)}   50%{transform:translate(-38px,34px) scale(.9)} }
+
+      .sweep { animation: sweep 7.5s cubic-bezier(.4,0,.2,1) infinite; }
+      @keyframes sweep { 0%{transform:translateX(0)} 60%,100%{transform:translateX(1900px)} }
+
+      .caret { animation: blink 1.15s steps(1) infinite; }
+      @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+
+      .chip { animation: rise .95s ease-out both; }
+      .c1{animation-delay:.10s} .c2{animation-delay:.19s} .c3{animation-delay:.28s}
+      .c4{animation-delay:.37s} .c5{animation-delay:.46s} .c6{animation-delay:.55s}
+      @keyframes rise { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:translateY(0)} }
+
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes pulse { 0%,100%{opacity:.30} 50%{opacity:1} }
+
+      .ring { animation: ring 2.4s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes ring { 0%{transform:scale(.6);opacity:.75} 70%,100%{transform:scale(2.6);opacity:0} }
+
+      @media (prefers-reduced-motion: reduce) {
+        .g1,.g2,.g3,.g4,.sweep,.caret,.chip,.pulse,.ring { animation: none; }
+        .chip { opacity: 1; }
+        .ring { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1280" height="340" fill="url(#bg)"/>
+    <rect width="1280" height="340" fill="url(#dots)"/>
+
+    <g filter="url(#soften)">
+      <g class="glow g1"><ellipse cx="232" cy="88"   rx="300" ry="205" fill="url(#glowA)"/></g>
+      <g class="glow g2"><ellipse cx="1082" cy="272" rx="340" ry="225" fill="url(#glowB)"/></g>
+      <g class="glow g3"><ellipse cx="892" cy="44"   rx="260" ry="175" fill="url(#glowC)"/></g>
+      <g class="glow g4"><ellipse cx="540" cy="318"  rx="300" ry="150" fill="url(#glowD)"/></g>
+    </g>
+
+    <rect width="1280" height="340" fill="url(#vignette)"/>
+    <rect width="1280" height="340" filter="url(#grain)" opacity=".055"/>
+
+    <!-- left accent bar -->
+    <rect x="74" y="94" width="4.5" height="152" rx="2.25" fill="url(#barFill)" opacity=".92"/>
+
+    <!-- eyebrow with radiating ring -->
+    <g transform="translate(98,118)">
+      <circle class="ring" cx="5" cy="-5" r="4.5" fill="none" stroke="#34D399" stroke-width="1.6"/>
+      <circle class="pulse" cx="5" cy="-5" r="4.5" fill="#34D399"/>
+      <text class="mono" x="21" y="0" fill="#F5D0FE" font-size="16" letter-spacing="3.4">NOIDA, INDIA</text>
+    </g>
+
+    <!-- name -->
+    <text class="t" x="96" y="196" fill="url(#nameFill)" font-size="72" font-weight="700" letter-spacing="-1.4">Pooja Tanwar</text>
+
+    <!-- animated rule -->
+    <rect x="98" y="220" width="500" height="2.5" rx="1.25" fill="url(#rule)"/>
+
+    <!-- role -->
+    <text class="t" x="98" y="256" fill="#FCE8FF" font-size="25" font-weight="600" letter-spacing=".3">Software Engineer<tspan fill="#C77ACF"> · </tspan>Full-Stack Developer<tspan fill="#C77ACF"> · </tspan>Generative AI</text>
+
+    <!-- tech chips -->
+    <g transform="translate(98,288)">
+      <g class="chip c1"><rect x="0"   y="0" width="86"  height="30" rx="15" fill="#FFFFFF" fill-opacity=".11" stroke="#F0ABFC" stroke-opacity=".42"/><text class="mono" x="43"  y="20" fill="#FDF4FF" font-size="14" text-anchor="middle">React.js</text></g>
+      <g class="chip c2"><rect x="96"  y="0" width="82"  height="30" rx="15" fill="#FFFFFF" fill-opacity=".11" stroke="#F0ABFC" stroke-opacity=".42"/><text class="mono" x="137" y="20" fill="#FDF4FF" font-size="14" text-anchor="middle">Next.js</text></g>
+      <g class="chip c3"><rect x="188" y="0" width="88"  height="30" rx="15" fill="#FFFFFF" fill-opacity=".11" stroke="#F0ABFC" stroke-opacity=".42"/><text class="mono" x="232" y="20" fill="#FDF4FF" font-size="14" text-anchor="middle">Node.js</text></g>
+      <g class="chip c4"><rect x="286" y="0" width="98"  height="30" rx="15" fill="#FFFFFF" fill-opacity=".11" stroke="#F0ABFC" stroke-opacity=".42"/><text class="mono" x="335" y="20" fill="#FDF4FF" font-size="14" text-anchor="middle">TypeScript</text></g>
+      <g class="chip c5"><rect x="394" y="0" width="78"  height="30" rx="15" fill="#FFFFFF" fill-opacity=".11" stroke="#F0ABFC" stroke-opacity=".42"/><text class="mono" x="433" y="20" fill="#FDF4FF" font-size="14" text-anchor="middle">Python</text></g>
+      <g class="chip c6"><rect x="482" y="0" width="128" height="30" rx="15" fill="#E879F9" fill-opacity=".26" stroke="#F5D0FE" stroke-opacity=".60"/><text class="mono" x="546" y="20" fill="#FFFFFF" font-size="14" text-anchor="middle">OpenAI · Claude</text></g>
+    </g>
+
+    <!-- terminal card -->
+    <g transform="translate(846,80)" filter="url(#termGlow)">
+      <rect x="0" y="0" width="362" height="180" rx="14" fill="#14021C" fill-opacity=".76" stroke="#F0ABFC" stroke-opacity=".34"/>
+      <rect x="0" y="0" width="362" height="34" rx="14" fill="#F0ABFC" fill-opacity=".07"/>
+      <rect x="0" y="33" width="362" height="1" fill="#F0ABFC" fill-opacity=".20"/>
+      <circle cx="22" cy="17" r="5.5" fill="#FB7185"/>
+      <circle cx="42" cy="17" r="5.5" fill="#FBBF24"/>
+      <circle cx="62" cy="17" r="5.5" fill="#34D399"/>
+      <text class="mono" x="330" y="22" fill="#D8A8DE" font-size="11.5" text-anchor="end">pooja.js</text>
+
+      <text class="mono" x="20" y="64"  fill="#7E5A86" font-size="12">1</text>
+      <text class="mono" x="38" y="64"  fill="#67E8F9" font-size="13.5">const pooja = {</text>
+      <text class="mono" x="20" y="88"  fill="#7E5A86" font-size="12">2</text>
+      <text class="mono" x="54" y="88"  fill="#F0ABFC" font-size="13.5">experience: <tspan fill="#FDE68A">'1.5+ yrs'</tspan>,</text>
+      <text class="mono" x="20" y="112" fill="#7E5A86" font-size="12">3</text>
+      <text class="mono" x="54" y="112" fill="#F0ABFC" font-size="13.5">shipped: <tspan fill="#FDE68A">'5 products'</tspan>,</text>
+      <text class="mono" x="20" y="136" fill="#7E5A86" font-size="12">4</text>
+      <text class="mono" x="54" y="136" fill="#F0ABFC" font-size="13.5">focus: <tspan fill="#FDE68A">'AI workflows'</tspan></text>
+      <text class="mono" x="20" y="160" fill="#7E5A86" font-size="12">5</text>
+      <text class="mono" x="38" y="160" fill="#67E8F9" font-size="13.5">}</text>
+      <rect class="caret" x="49" y="149" width="8" height="14" rx="1" fill="#F0ABFC"/>
+    </g>
+
+    <rect width="1280" height="340" fill="#FFFFFF" fill-opacity=".05" mask="url(#sheenMask)"/>
+    <rect x="1" y="1" width="1278" height="338" rx="26" ry="26" fill="none" stroke="#F0ABFC" stroke-opacity=".34" stroke-width="1.5"/>
+  </g>
+</svg>
